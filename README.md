@@ -45,12 +45,15 @@ To digitize and analyze police traffic stop logs by providing a centralized syst
 ---
 
 ## 📦 Project Structure
-EnforceIQ/
-├── testproject.py            # Main Streamlit dashboard app
-├── requirements.txt           # Python dependencies
-├── /sql                       # SQL query library (optional)
-├── /docs                      # Project documentation (e.g. Police.docx)
-└── README.md                  # This file
+## 📁 EnforceIQ Folder Layout
+
+📂 EnforceIQ 
+├── 🧠 `testproject.py` – Main Streamlit dashboard app  
+├── 📦 `requirements.txt` – Python dependencies  
+├── 🗃️ `sql/` – SQL query scripts (optional)  
+├── 📑 `docs/` – Project documentation (e.g., Police.docx)  
+└── 📘 `README.md` – Project overview and guide 
+
 
 
 
