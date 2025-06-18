@@ -53,12 +53,13 @@ To digitize and analyze police traffic stop logs by providing a centralized syst
 └── 📘 `README.md` – Project overview and guide 
 
 
-
+🤝 Contributors
+👨‍💻Santhanalakshmi V
+👩‍🏫 Guided by: GUVI x HCL Capstone Team
 
 
 
 ---
-
 ## ✅ Conclusion
 
 **EnforceIQ** is a streamlined, interactive dashboard that simplifies traffic stop analysis for law enforcement and analysts.  
